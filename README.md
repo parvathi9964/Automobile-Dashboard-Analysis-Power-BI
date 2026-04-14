@@ -26,4 +26,5 @@ The primary objective of the analysis is to gain insights into the sales perform
 - Power BI
 
 ## Dashboard ##
-<img width="803" height="451" alt="Automobile_dashboard power bi" src="https://github.com/user-attachments/assets/16c2e15d-b0b1-4200-9bbf-c8b98c9f2752" />
+<img width="500" height="640" alt="Automation_dashboard" src="https://github.com/user-attachments/assets/050bf8c1-e381-43b1-8504-eb72c413ee6f" />
+
